@@ -1,0 +1,14 @@
+tail $ROOT/Project/parallel_log/03.08_06:03-attack_with_bert-tagspec-use_pos-select:1.log
+tail $ROOT/Project/parallel_log/03.08_06:06-attack_with_bert-tagspec-use_pos-select:2.log
+tail $ROOT/Project/parallel_log/03.08_06:04-attack_with_bert-tagspec-use_pos-select:3.log
+tail $ROOT/Project/parallel_log/03.08_06:06-attack_with_bert-tagspec-use_pos-select:4.log
+tail $ROOT/Project/parallel_log/03.08_06:06-attack_with_bert-tagspec-use_pos-select:5.log
+tail $ROOT/Project/parallel_log/03.08_06:06-attack_with_bert-tagspec-use_pos-select:6.log
+tail $ROOT/Project/parallel_log/03.08_06:07-attack_with_bert-tagspec-use_pos-select:7.log
+tail $ROOT/Project/parallel_log/03.08_06:06-attack_with_bert-tagspec-no_pos-select:1.log
+tail $ROOT/Project/parallel_log/03.08_06:06-attack_with_bert-tagspec-no_pos-select:2.log
+tail $ROOT/Project/parallel_log/03.08_06:06-attack_with_bert-tagspec-no_pos-select:3.log
+tail $ROOT/Project/parallel_log/03.08_06:04-attack_with_bert-tagspec-no_pos-select:4.log
+tail $ROOT/Project/parallel_log/03.08_06:05-attack_with_bert-tagspec-no_pos-select:6.log
+tail $ROOT/Project/parallel_log/03.08_06:06-attack_with_bert-tagspec-no_pos-select:5.log
+tail $ROOT/Project/parallel_log/03.08_06:07-attack_with_bert-tagspec-no_pos-select:7.log

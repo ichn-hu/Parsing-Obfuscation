@@ -1,0 +1,27 @@
+cmds = [
+  #      "unk_rate=1.0 privacy_term='NNP' obf_term='NNP' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:NNP_pri:NNP_rate:1.0",
+  #
+  #      "unk_rate=0.0 privacy_term='NNP' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:NNP_rate:0.0",
+  #      "unk_rate=0.1 privacy_term='NNP' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:NNP_rate:0.1",
+  #      "unk_rate=0.2 privacy_term='NNP' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:NNP_rate:0.2",
+  #      "unk_rate=0.3 privacy_term='NNP' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:NNP_rate:0.3",
+  #      "unk_rate=0.4 privacy_term='NNP' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:NNP_rate:0.4",
+  #      "unk_rate=0.5 privacy_term='NNP' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:NNP_rate:0.5",
+  #      "unk_rate=0.6 privacy_term='NNP' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:NNP_rate:0.6",
+  #      "unk_rate=0.7 privacy_term='NNP' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:NNP_rate:0.7",
+  #      "unk_rate=0.8 privacy_term='NNP' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:NNP_rate:0.8",
+  #      "unk_rate=0.9 privacy_term='NNP' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:NNP_rate:0.9",
+  #      "unk_rate=1.0 privacy_term='NNP' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:NNP_rate:1.0",
+
+        "unk_rate=0.0 privacy_term='all' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:all_rate:0.0",
+        "unk_rate=0.1 privacy_term='all' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:all_rate:0.1",
+  #      "unk_rate=0.2 privacy_term='all' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:all_rate:0.2",
+        "unk_rate=0.3 privacy_term='all' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:all_rate:0.3",
+        "unk_rate=0.4 privacy_term='all' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:all_rate:0.4",
+        "unk_rate=0.5 privacy_term='all' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:all_rate:0.5",
+  #      "unk_rate=0.6 privacy_term='all' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:all_rate:0.6",
+        "unk_rate=0.7 privacy_term='all' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:all_rate:0.7",
+        "unk_rate=0.8 privacy_term='all' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:all_rate:0.8",
+        "unk_rate=0.9 privacy_term='all' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:all_rate:0.9",
+        "unk_rate=1.0 privacy_term='all' obf_term='all' gen_model='AlltagRandomGenerator' ~/Project/HO/run.py -c config.unkgen -g {} -n random_obf:all_pri:all_rate:1.0",
+        ]

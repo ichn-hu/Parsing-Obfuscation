@@ -1,0 +1,2 @@
+python run.py -g 0 -n tagspec-rnd-select_first_n_tag:1 -e "select_first_n_tag=1 export_test_to=/tmp/export_test.conll"
+python run.py -g 0 -n load_pretrained_allennlp_model-rnd-select_first_n_tag:1 -e "infer_data=/tmp/export_test.conll"
